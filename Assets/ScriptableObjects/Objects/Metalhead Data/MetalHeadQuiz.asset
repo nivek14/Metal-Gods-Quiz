@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbcfd0ea3b50ca448ba4c94752fcc7ca, type: 3}
+  m_Name: MetalHeadQuiz
+  m_EditorClassIdentifier: 
+  quiz:
+  - {fileID: 11400000, guid: 2fb34a4ef38c0864b91877f1869d9ce7, type: 2}
+  - {fileID: 11400000, guid: e2310f769cb53364e9e0fd21bc7a6bf5, type: 2}
+  - {fileID: 11400000, guid: c089797b11f94d74eb4225a33427fbea, type: 2}
+  - {fileID: 11400000, guid: ad96f6b87c07bcd419593cf0b6ebc61e, type: 2}
+  - {fileID: 11400000, guid: e226c865f906a8348808ac4dfca20143, type: 2}
+  GeneralScore: 0

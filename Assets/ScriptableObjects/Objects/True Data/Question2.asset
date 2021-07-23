@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eabe437f9a5dc1640b48f5f13a887ec4, type: 3}
+  m_Name: Question2
+  m_EditorClassIdentifier: 
+  question: "\rDo you listen to anything besides metal?"
+  correctAnswer: 1
+  answers:
+  - ' NO EVERYTHING THAT ISN''T METAL ISN''T MUSIC'
+  - I listen to EVERY genre of music
+  - ' Metal sucks!'
